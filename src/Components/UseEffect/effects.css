@@ -1,0 +1,19 @@
+body {
+  background-color: #e4e4e4;
+}
+.valueHolder {
+  background-color: #d1d1d1;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+}

@@ -10,9 +10,9 @@ class ClassStateExample extends Component {
     };
   }
 
-  ReactEvent() {
+  ReactEvent = () => {
     alert("You clicked me!!");
-  }
+  };
 
   render() {
     return (
